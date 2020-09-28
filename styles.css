@@ -176,3 +176,7 @@ a:hover {
 .Eng:hover {
   text-decoration: underline;
 }
+@media (max-width: 1028px) {
+  #features {
+    text-align: center;
+  }
