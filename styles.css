@@ -1,0 +1,178 @@
+.logo {
+  width: 105px;
+  margin-right: 20px;
+  height: 22px;
+}
+body {
+  text-align: center;
+  font-family: Segoe UI, SegoeUI, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.container-fluid {
+  padding-left: 75px;
+  padding-right: 75px;
+  color: black;
+}
+
+.container3 {
+  background-color: #0067b8;
+  color: white;
+  padding-top: 11px;
+  padding-bottom: 11px;
+  text-align: center;
+  font-size: 13px;
+  cursor: pointer;
+  margin-bottom: 0;
+}
+.container3:hover {
+  text-decoration: underline;
+}
+p {
+  margin-bottom: 0px;
+}
+.nav-link {
+}
+ul {
+  font-size: 13px;
+  font-family: Segoe UI, SegoeUI, "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+  list-style: none;
+}
+li:hover {
+  text-decoration: underline;
+}
+
+.Teams {
+  background-color: #e6e6e659;
+  padding-top: 50px;
+  text-align: right;
+}
+.title-image {
+  padding-top: 25px;
+  width: 95%;
+}
+.Teams1 {
+  text-align: center;
+  padding-top: 100px;
+}
+.learn-more {
+  margin-top: 50px;
+}
+.learn-more:hover {
+  text-decoration: underline;
+}
+#features {
+  padding: 50px 90px 50px 75px;
+  text-align: left;
+  font-size: 15px;
+}
+.img1 {
+  width: 332px;
+  height: 182px;
+  margin-bottom: 50px;
+}
+.Outlook {
+  background-color: #e6e6e6;
+  padding-top: 50px;
+  text-align: right;
+}
+@media (max-width: 1028px) {
+  .Teams1 {
+    text-align: center;
+  }
+
+  .title-image {
+    position: static;
+  }
+}
+
+.btn-button {
+  list-style: none;
+  margin-top: 30px;
+}
+.btn-button:hover {
+  content: "> ";
+  text-decoration-line: underline;
+}
+.Follow {
+  text-align: left;
+  padding-left: 75px;
+  padding-right: 75px;
+  padding-bottom: 50px;
+  color: #616161;
+}
+.imgc {
+  padding: 5px;
+}
+#last {
+  padding-top: 30px;
+  padding-right: 30px;
+  padding-left: 30px;
+
+  background-color: #e6e6e659;
+  font-family: Segoe UI, SegoeUI, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin: auto;
+}
+
+.lList {
+  text-align: left;
+  color: #616161;
+  font-size: 15px;
+
+  font-size: 5px;
+}
+.ll {
+  font-size: 11px;
+  padding-top: 20px;
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+a:hover {
+  color: black;
+}
+.language {
+  text-align: left;
+  font-size: 12px;
+  color: #616161;
+  padding-left: 50px;
+  padding-top: 40px;
+  padding-bottom: 20px;
+
+  width: auto;
+}
+
+.languageL {
+  text-align: center;
+  display: inline;
+
+  padding: 25px;
+  padding-bottom: 0em;
+}
+.M:hover {
+  cursor: default;
+  text-decoration: none;
+}
+.h4 {
+  color: #0067b8;
+  font-size: 15px;
+}
+.h43 {
+  color: #0067b8;
+  font-size: 15px;
+  font-weight: 600;
+  padding-left: 20px;
+}
+.h4:hover {
+  color: #0067b8;
+}
+.h43:hover {
+  color: #0067b8;
+}
+.Eng {
+  color: #616161;
+}
+.Eng:hover {
+  text-decoration: underline;
+}
